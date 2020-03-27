@@ -1,0 +1,5 @@
+$vidioo-primary: mat-palette($mat-red, 800, 50, 900);
+$vidioo-accent: mat-palette($mat-red, 400, 100, 700);
+$vidioo-warn: mat-palette($mat-red, 500, A200, 800);
+
+$vidioo-theme: mat-light-theme($vidioo-primary, $vidioo-accent, $vidioo-warn);
